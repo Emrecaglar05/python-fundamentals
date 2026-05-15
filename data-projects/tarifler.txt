@@ -1,0 +1,19 @@
+Tarif: Pankek
+Malzemeler: Yumurta, Süt, Un, Şeker
+Yapımı: Malzemeleri çırp ve tavada pişir
+
+Tarif: Omlet
+Malzemeler: Yumurta, Süt, Tuz, Biber
+Yapımı: Yumurtaları çırp, tavada pişir ve servis et
+
+Tarif: Kek
+Malzemeler: Un, Yumurta, Şeker, Süt, Kabartma Tozu
+Yapımı: Malzemeleri karıştır, kalıba dök ve fırında pişir
+Tarif: Kuymak
+Malzemeler: Mısır Unu, Kaşar, Su
+Yapımı: Tavada su ile mısır unu kavrulur ve kaşar eklenir
+
+Tarif: Muzlu Süt
+Malzemeler: Muz, Süt, Buz
+Yapımı: Karıştır
+

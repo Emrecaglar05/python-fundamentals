@@ -1,0 +1,3 @@
+Gün 1:, Bugün Python'da dosya yazmayı öğrendim. 
+Gün 2:, Bugün ilk Günlüğümü oluşturdum. 
+Gün 3: Bugün ders çalışmalıyım
